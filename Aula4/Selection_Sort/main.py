@@ -1,4 +1,4 @@
-from gerador_numeros_inteiros import lista_de_inteiros
+from gerador_de_numeros_inteiros import lista_de_inteiros
 from lista import Lista
 from nodo import Nodo
 
